@@ -1,24 +1,8 @@
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# 멋쟁이사자처럼 홈페이지 
 
+<!--<a href="https://www.youtube.com/watch?v=_HX0qRxo9Gg">
+  <img src="https://img.youtube.com/vi/_HX0qRxo9Gg/maxresdefault.jpg" width="500">
+</a>-->
 
-Welcome to your Rails project on Cloud9 IDE!
-
-To get started, just do the following:
-
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://kut-likelion-minbaekkim.c9users.io/).
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+bootstrap을 활용하여 처음으로 제작해 본 웹페이지
